@@ -64,7 +64,6 @@
     height: 250px;
     width: 230px;
     padding: 80px 30px 0px 30px;
-    text-align: center;
 }
 #sec2_pic3{
     border-radius: 300px 300px 0px 0px;
@@ -72,15 +71,5 @@
     height: 250px;
     width: 230px;
     padding: 80px 30px 0px 30px;
-    text-align: center;
     
-}
-/*Section 3*/
-.Sec3_pic{
-    background: rgba(39, 39, 39, 0.05);
-    margin: 150px 185px 0px;
-    padding: 50px 0px 30px;
-    justify-content: space-around;
-    display: flex;
-    text-align: center;
 }

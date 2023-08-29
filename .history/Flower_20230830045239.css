@@ -78,9 +78,7 @@
 /*Section 3*/
 .Sec3_pic{
     background: rgba(39, 39, 39, 0.05);
-    margin: 150px 185px 0px;
-    padding: 50px 0px 30px;
+    margin: 150px 150px 0px;
     justify-content: space-around;
     display: flex;
-    text-align: center;
 }
