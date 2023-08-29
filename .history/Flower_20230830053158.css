@@ -86,7 +86,7 @@
 }
 /* Section 4 */
 .Section4{
-    margin-top: 50px;
+    margin-top: 100px;
     background-color: rgb(255, 222, 227);
     height:500px;
     width: 100%;
@@ -95,7 +95,7 @@
     text-align: center;
 }
 #Sec4_text1{
-    padding: 200px 70px 5px 170px;
+    padding: 230px 70px 5px 100px;
     font-size:25px;
     font-weight: 800; 
 }
@@ -104,10 +104,4 @@
     font-size:  15px;
     font-weight: 400; 
     color:rgba(39, 39, 39, 0.60);
-}
-#off_color{
-    color: #E55473;
-}
-#sec4_vas{
-    padding: 100px 120px ;
 }
