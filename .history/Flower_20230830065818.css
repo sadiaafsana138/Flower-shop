@@ -143,22 +143,7 @@
     background-image: url(Images/13.png);
     margin: 100px 185px 0px;
 }
-.Sec7{
+.Sec6{
     padding: 50px 0px 30px;
     text-align: center;
-}
-/*Section 8*/
-.Section8{
-    margin-top: 50px;
-    background-color: rgb(0, 0, 0);
-    height:400px;
-    width: 100%;
-    text-align: center;
-    
-}
-.white_color{
-    color: #FFF;
-}
-#assh{
-    color: rgba(169, 169, 169, 0.589);
 }

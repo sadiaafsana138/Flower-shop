@@ -154,7 +154,7 @@
     height:400px;
     width: 100%;
     text-align: center;
-    
+    padding: -50px 0px 10px 0px !important;
 }
 .white_color{
     color: #FFF;
