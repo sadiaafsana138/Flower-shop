@@ -30,7 +30,7 @@
     font-size: 15px;
     font-weight: 700; 
     padding: 10px 17px;
-    margin: 10px 0px 0px 100px;
+    margin: 10px 0px 0px 10px;
 }
 /*Section 2*/
 #Section_2_header1{
@@ -119,22 +119,4 @@
     width: 100%;
     display: flex;
     justify-content: space-around;
-}
-.message{
-    border-radius: 8px;
-    background: #E55473; 
-    color: #FFF; 
-    font-size: 15px;
-    font-weight: 700; 
-    padding: 10px 25px;
-    margin: 10px 0px 0px 10px;
-}
-.ways{
-    border-radius: 8px;
-    background: #E55473; 
-    color: #FFF; 
-    font-size: 15px;
-    font-weight: 700; 
-    padding: 10px 30px;
-    margin: 10px 250px ;
 }
